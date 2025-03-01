@@ -1,0 +1,6 @@
+/* //this is a css file  */
+.navbar{
+    display: flex;
+    max-height: 50px;
+    background-color: #46cbdd;
+}
